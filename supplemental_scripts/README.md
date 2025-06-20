@@ -38,3 +38,4 @@ Original Source (Outdated)
  - [https://sw-tools.rcsb.org/apps/MAXIT/index.html](https://sw-tools.rcsb.org/apps/MAXIT/index.html)
  - [https://sw-tools.rcsb.org/apps/MAXIT/source.html](https://sw-tools.rcsb.org/apps/MAXIT/source.html)
  - [https://sw-tools.rcsb.org/apps/MAXIT/README-source](https://sw-tools.rcsb.org/apps/MAXIT/README-source)
+ - https://mmcif.pdbj.org/converter/
